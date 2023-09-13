@@ -138,7 +138,7 @@ cls
 echo +===============================================+
 echo 04. Export current paths to (Desktop)           .
 echo +===============================================+
-echo Are you sure that this is the right path?       .
+echo Are you sure?                                   .
 echo Do you want to proceed? (Y/N)
 choice /c YN /n /m "Enter Y or N:"
 if errorlevel 2 (
