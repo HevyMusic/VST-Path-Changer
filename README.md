@@ -20,3 +20,6 @@ Simply change your VST paths on your Windows machine.
 3. Continue with Y, go back to menu with N
 4. 2 files will be created on the Desktop, 'VST 32bit Backup.reg' and 'VST 64bit Backup.reg'
 5. Press any key to return to the menu
+
+# Check the other tools:
+https://github.com/HevyMusic/FL-Studio-Settings-Export for FL Studio settings export
